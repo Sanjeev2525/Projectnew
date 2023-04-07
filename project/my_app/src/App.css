@@ -1,0 +1,10 @@
+
+*{
+  overflow: hidden;
+  /* overflow-x: hidden; */
+  overflow-y:scroll;
+}
+
+MDBCarousel > MDBCarouselItem{
+  /* overflow-y: hidden; */
+}
